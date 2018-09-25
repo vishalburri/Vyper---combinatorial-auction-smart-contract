@@ -1,4 +1,4 @@
-# Blockchain Combinitorial Auction with Vyper
+# Blockchain Combinatorial Auction with Vyper
 ### Authors:
 #### Arjun Nemani    20161027 
 #### B.Vishal Reddy  201501173
